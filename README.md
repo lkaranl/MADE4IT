@@ -8,7 +8,7 @@
 4. [Portas](#Portas)
 
 ## O-que-é
-Teste PHP para o teste de Desenvolvedor Pleno da Made4IT, onde deve-se desenvolver um pequeno sistema de blog utilizando arquitetura MVC.
+Teste PHP para a vaga de Desenvolvedor Pleno da Made4IT, onde deve-se desenvolver um pequeno sistema de blog utilizando arquitetura MVC.
 
 Houveram algumas modificações no projeto para o resultado final. A princípio é pedido, claramente, para não usar framework, porém, em um certo momento durante a madrugada, percebi que estava ficando complexo de mais, os arquivos estavam começando a ficar bagunçados, então resolvi usar a estrutura do Laravel para me ajudar na organização, entendo que não deveria mas achei, no momento, a melhor solução para organização.
 
@@ -22,6 +22,9 @@ Para o projeto você precisará estar usando um sistema com base GNU/Linux, ter 
 ## Como-usar
 Clone o repositorio do [projeto](https://github.com/lkaranl/MADE4IT.git).
 Entre na pasta do projeto e execute o [script](https://github.com/lkaranl/MADE4IT/blob/main/subir.sh) bash.
+
+`$sudo ./subir.sh
+`
 
 Não tem muito segredo, o script faz todo o trabalho complicado de subir os container e subir as migrations do bando de dados.
 
@@ -40,6 +43,9 @@ Uma observação importante é que se porventura desejar fazer o backup porém s
 
 E também pode ser realizado de maneira manual, utilizando o script backup.sh.
 
+`$sudo ./backup.sh
+`
+spript
 ![animacao](https://github.com/lkaranl/MADE4IT/raw/main/auxIMG/backupManual.png)
 
 **IMPORTANTE: Os comando devem ser realizados com permissão de root**
