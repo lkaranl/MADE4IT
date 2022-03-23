@@ -9,7 +9,7 @@
     <meta name="description" content="Content management dashboard">
     <meta name="keywords" content="Dashboard, Administrative">
     <meta name="author" content="Agência Staff">
-    <title>Sgen MADE4IT</title>
+    <title>Login MADE4IT</title>
 
     <!-- {headerinc} -->
 
@@ -19,9 +19,7 @@
 
     <!-- BEGIN: Vendor CSS-->
     <link rel="stylesheet" type="text/css" href="<?= WEB_ROOT ?>/app-assets/vendors/css/vendors.min.css">
-    <!-- <link rel="stylesheet" type="text/css" src="{{ URL::asset('css/vendors.min.css') }}"> -->
     <link rel="stylesheet" type="text/css" href="<?= WEB_ROOT ?>/app-assets/vendors/css/charts/apexcharts.css">
-    <!-- <link rel="stylesheet" type="text/css" href="https://app.agenciastaff.com.br/dashboard-v2/app-assets/vendors/css/extensions/swiper.min.css"> -->
     <!-- END: Vendor CSS-->
 
     <!-- BEGIN: Theme CSS-->
@@ -30,17 +28,6 @@
     <link rel="stylesheet" type="text/css" href="<?= WEB_ROOT ?>/app-assets/css/colors.min.css">
     <link rel="stylesheet" type="text/css" href="<?= WEB_ROOT ?>/app-assets/css/components.min.css">
     <!-- END: Theme CSS-->
-
-    <!-- BEGIN: Page CSS-->
-    <link rel="stylesheet" type="text/css" href="<?= WEB_ROOT ?>/app-assets/css/core/menu/menu-types/vertical-menu.min.css">
-    <!-- <link rel="stylesheet" type="text/css" href="https://app.agenciastaff.com.br/dashboard-v2/app-assets/css/pages/dashboard-ecommerce.css"> -->
-    <!-- <link rel="stylesheet" type="text/css" href="https://app.agenciastaff.com.br/dashboard-v2/app-assets/css/plugins/extensions/toastr.css"> -->
-    <!-- END: Page CSS-->
-
-    <!-- BEGIN: Custom CSS-->
-    <link rel="stylesheet" type="text/css" href="<?= WEB_ROOT ?>/assets/css/style.css">
-    <!-- END: Custom CSS-->
-
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
