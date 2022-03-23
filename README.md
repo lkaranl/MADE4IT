@@ -47,7 +47,7 @@ E também pode ser realizado de maneira manual, utilizando o script backup.sh.
 
 `$sudo ./backup.sh
 `
-spript
+
 ![animacao](https://github.com/lkaranl/MADE4IT/raw/main/auxIMG/backupManual.png)
 
 **IMPORTANTE: Os comando devem ser realizados com permissão de root**
