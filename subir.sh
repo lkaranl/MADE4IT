@@ -8,13 +8,13 @@ progreSh() {
     LW='\033[1;37m'
     NC='\033[0m'
     if [ "${1}" = "0" ]; then TME=$(date +"%s"); fi
-    SEC=`printf "%04d\n" $(($(date +"%s")-${TME}))`; SEC="$SEC sec"
-    PRC=`printf "%.0f" ${1}`
-    SHW=`printf "%3d\n" ${PRC}`
-    LNE=`printf "%.0f" $((${PRC}/2))`
-    LRR=`printf "%.0f" $((${PRC}/2-12))`; if [ ${LRR} -le 0 ]; then LRR=0; fi;
-    LYY=`printf "%.0f" $((${PRC}/2-24))`; if [ ${LYY} -le 0 ]; then LYY=0; fi;
-    LCC=`printf "%.0f" $((${PRC}/2-36))`; if [ ${LCC} -le 0 ]; then LCC=0; fi;
+    SEC=$(printf "%04d\n" $(($(date +"%s")-${TME}))); SEC="$SEC sec"
+    PRC=$(printf "%.0f" "${1}")
+    SHW=$(printf "%3d\n" ${PRC})
+    LNE=$(printf "%.0f" $((${PRC}/2)))
+    LRR=$(printf "%.0f" $((${PRC}/2-12))); if [ ${LRR} -le 0 ]; then LRR=0; fi;
+    LYY=$(printf "%.0f" $((${PRC}/2-24))); if [ ${LYY} -le 0 ]; then LYY=0; fi;
+    LCC=$(printf "%.0f" $((${PRC}/2-36))); if [ ${LCC} -le 0 ]; then LCC=0; fi;
     LGG=`printf "%.0f" $((${PRC}/2-48))`; if [ ${LGG} -le 0 ]; then LGG=0; fi;
     LRR_=""
     LYY_=""
@@ -25,6 +25,7 @@ progreSh() {
     	DOTS=""; for ((ii=${i};ii<13;ii++)); do DOTS="${DOTS}."; done
     	if [ ${i} -le ${LNE} ]; then LRR_="${LRR_}#"; else LRR_="${LRR_}."; fi
     	echo -ne "  ${LW}${SEC}  ${LR}${LRR_}${DOTS}${LY}............${LC}............${LG}............ ${SHW}%${NC}\r"
+    	# shellcheck disable=SC2086
     	if [ ${LNE} -ge 1 ]; then sleep .05; fi
     done
     for ((i=14;i<=25;i++))
@@ -51,30 +52,34 @@ progreSh() {
 }
 
 ###################
+#EXTRAIR ARQUIVOS PARA A PASTA
+tar -C www/ -xf extrair.tar.xz
 
 echo -n "Quer fazer o BACKUP? "
-read BACKUP
+read -r BACKUP
 
 case $BACKUP in
     s|S|sim|SIM|Sim|y|Y|yes|Yes|YES)
     
     container=$(docker ps |grep alpine-mariadb |awk '{print $1}')
-    docker exec $container /usr/bin/mysqldump -u root --password=root sgen_db > backup.sql
+    docker exec "$container" /usr/bin/mysqldump -u root --password=root sgen_db > backup.sql
     tar -czf backup.sql.tar.gz backup.sql
     a=1
 	function verifica {
-	if [ -e /root/BackupDB/backup$a.sql.tar.gz ]
+	local=$(pwd)
+	if [ -e "$local"/Backup/backup$a.sql.tar.gz ]
 	then
 		#echo "ok"
 		((a=$a+ 1))
 		
 		verifica    
 	else
-		    cp backup.sql.tar.gz /root/BackupDB/backup$a.sql.tar.gz
+		    cp backup.sql.tar.gz "$local"/Backup/backup$a.sql.tar.gz
 	fi
 	}
 	verifica
     
+    # shellcheck disable=SC2181
     if [ $? -eq 0 ]
     then
         echo "Deseja fazer o RESTORE?"
@@ -89,7 +94,7 @@ case $BACKUP in
 				progreSh 50
 				sleep 2
                 container=$(docker ps |grep alpine-mariadb |awk '{print $1}')
-                docker exec -i $container mysql -uroot -proot --database=sgen_db < backup.sql
+                docker exec -i "$container" mysql -uroot -proot --database=sgen_db < backup.sql
                 rm backup.sql
 		rm backup.sql.tar.gz
 		progreSh 100
