@@ -5,7 +5,8 @@
 1. [O-que-é](#O-que-é)
 2. [Pré-requisitos](#Pré-requisitos)
 3. [Como-usar?](#Como-usar)
-4. [Portas](#Portas)
+4. [Login](#Login)
+5. [Portas](#Portas)
 
 ## O-que-é
 Teste PHP para a vaga de Desenvolvedor Pleno da Made4IT, onde deve-se desenvolver um pequeno sistema de blog utilizando arquitetura MVC.
@@ -50,6 +51,18 @@ spript
 ![animacao](https://github.com/lkaranl/MADE4IT/raw/main/auxIMG/backupManual.png)
 
 **IMPORTANTE: Os comando devem ser realizados com permissão de root**
+
+## Login
+Para logar como Administrador use as credenciais:
+
+* **_User_**: seguro@gmail.com
+* **_pass_**: 12345678
+
+Para logar como usuario normal:
+
+* **_User_**: karan@gmail.com
+* **_pass_**: 12345678
+
 ## Portas
 - **nginx - Porta Principal do projeto** - `:8000`
 - **mysql** - `:9906`

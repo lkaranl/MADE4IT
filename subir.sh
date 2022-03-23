@@ -55,7 +55,7 @@ progreSh() {
 #EXTRAIR ARQUIVOS PARA A PASTA
 tar -C www/ -xf extrair.tar.xz
 
-echo -n "Quer fazer o BACKUP? "
+echo -n "Quer fazer o BACKUP? (SIM OU NAO) "
 read -r BACKUP
 
 case $BACKUP in
