@@ -1,18 +1,31 @@
-# docker-compose-laravel
-A pretty simplified Docker Compose workflow that sets up a LEMP network of containers for local Laravel development. You can view the full article that inspired this repo [here](https://dev.to/aschmelyun/the-beauty-of-docker-for-local-laravel-development-13c0).
+# TESTE DESENVOLVEDOR PLENO - MADE4IT
 
-[![GitNFT](https://img.shields.io/badge/%F0%9F%94%AE-Open%20in%20GitNFT-darkviolet?style=flat)](https://gitnft.quine.sh/app/commits/list/repo/docker-compose-laravel)
 
-## Usage
 
-To get started, make sure you have [Docker installed](https://docs.docker.com/docker-for-mac/install/) on your system, and then clone this repository.
+1. [O que é?](#O-que-é?)
+2. [Pré-requisitos](#Pré-requisitos)
+3. [Como usar?](#Como-usar?)
+4. [Portas](#Portas)
 
-Next, navigate in your terminal to the directory you cloned this, and spin up the containers for the web server by running `docker-compose up`.
+## O que é?
+Teste PHP para o teste de Desenvolvedor Pleno da Made4IT, onde deve-se desenvolver um pequeno sistema de blog utilizando arquitetura MVC.
 
-After that completes, follow the steps from the [src/README.md](src/README.md) file to get your Laravel project added in (or create a new blank one).
+Houveram algumas modificações no projeto para o resultado final. A princípio é pedido, claramente, para não usar framework, porém, em um certo momento durante a madrugada, percebi que estava ficando complexo de mais, os arquivos estavam começando a ficar bagunçados, então resolvi usar a estrutura do Laravel para me ajudar na organização, entendo que não deveria mas achei, no momento, a melhor solução para organização.
 
-Bringing up the Docker Compose network with `site` instead of just using `up`, ensures that only our site's containers are brought up at the start, instead of all of the command containers as well. The following are built for our web server, with their exposed ports detailed:
+Outra mudança foi a parte do backup, a princípio era para fazer um botão que realiza-se o backup, entretanto, devido ao modelo que eu escolhi fazer o projeto, utilizando containers dock, ficou meio complicado a integração do PHP com o backup da forma que eu queria. Tendo em vista que se tem um certo prazo para a entrega, apesar de não ter sido esclarecido no requisito, resolvi procurar uma solução mais rápida e barata para o momento. A solução foi fazer o backup no próprio script que sobe o programa.
 
-- **nginx** - `:8000`
+## Pré-requisitos
+Para o projeto você precisará estar usando um sistema com base GNU/Linux, ter o [Docker](https://www.docker.com/) e o [Docker-compose](https://github.com/docker/compose) instalados.
+
+* Obs: Houveram, exaustivos, testes usando o sistema Fedora Silverblue 35, entretanto, na teoria, deve funcionar em qual sistema com base GNU/Linux.
+
+## Como usar?
+Clone o repositorio do [projeto](https://github.com/lkaranl/MADE4IT.git).
+Entre na pasta do projeto e execute o [script](https://github.com/lkaranl/MADE4IT/blob/main/subir.sh) bash.
+
+Não tem muito segredo, o script faz todo o trabalho complicado de subir os container e subir as migrations do bando de dados.
+
+## Portas
+- **nginx - Porta Principal do projeto** - `:8000`
 - **mysql** - `:9906`
 - **phpadmin** - `:8080`
