@@ -1,0 +1,60 @@
+/* ----------------------- LOGIN INICIO ----------------------- */
+#btn-login{
+    background-color: #f17b0b !important;
+    box-shadow: 0 2px 4px 0 rgb(238 145 90 / 50%) !important;
+}
+/* ----------------------- LOGIN FIM ----------------------- */
+
+/* ----------------------- GERAL INICIO ----------------------- */
+.background-table{
+	background-color: #ffffff12;
+}
+
+.btn-cadastrar{
+	margin: 2rem;
+}
+
+.input-description{
+    text-transform: none;
+    padding-left: 1rem;
+    color: #4e5869 !important;
+    margin-bottom: 1.5rem;
+}
+/* ----------------------- GERAL FIM ----------------------- */
+
+/* ----------------------- SUB-TABLE INICIO ----------------------- */
+.sub-table{
+    background-color: #1a233a;
+}
+.set-visible{
+    display: inline-block;
+}
+.set-invisible{
+    display: none;
+}
+.background-table tbody tr th{
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    /* background-color: #202020; */
+}
+.btn-bg-roxo{
+    background-color: #8f5eff !important;
+}
+.btn-bg-roxo:hover{
+    background-color: #9830f2!important;
+}
+/* ----------------------- SUB-TABLE FIM ----------------------- */
+
+/* ----------------------- SCRIPT LMC INICIO ----------------------- */
+.margin-0{
+    padding: 0.7em;
+    background-color: #1a233a;
+    border-radius: 5px;
+}
+#script{
+    background-color: rgb(26, 35, 58);
+    color: rgb(189, 209, 248);
+    border: 0px !important;
+    width: -webkit-fill-available;
+}
+/* ----------------------- SCRIPT LMC FIM ----------------------- */

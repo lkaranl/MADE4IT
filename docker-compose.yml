@@ -1,0 +1,79 @@
+version: "3"
+services:
+  
+  app:
+    build:
+      args:
+        user: sammy
+        uid: 1000
+      context: ./
+      dockerfile: Dockerfile
+    image: travellist
+    container_name: travellist-app
+    restart: unless-stopped
+    working_dir: /var/www/
+    volumes:
+      - ./www:/var/www
+    links:
+       - db:db      
+    networks:
+        travellist:
+            ipv4_address: 10.2.0.10
+
+  db:
+    image: yobasystems/alpine-mariadb
+    container_name: travellist-db
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: sgen_db
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_PASSWORD: devpass
+      MYSQL_USER: devuser
+      # SERVICE_TAGS: dev
+      # SERVICE_NAME: mysql
+    volumes:
+      ##- /root/Sgen/docker-compose/mysql:/docker-entrypoint-initdb.d/:ro
+      - /var/home/karan/Documentos/GitHub/docker-compose-laravel/docker-compose/mysql:/docker-entrypoint-initdb.d/:ro
+    ports:
+      - "9906:3306"
+    expose:
+      - 3306 
+    networks:
+        travellist:
+            ipv4_address: 10.2.0.20
+
+  nginx:
+    image: nginx
+    container_name: travellist-nginx
+    restart: unless-stopped
+    ports:
+      - 8000:80
+    volumes:
+      - ./www:/var/www
+      - ./docker-compose/nginx:/etc/nginx/conf.d/
+    links:
+       - db:db      
+    networks:
+        travellist:
+            ipv4_address: 10.2.0.30
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "8080:80"
+    volumes:
+      - ./uploads.ini:/usr/local/etc/php/conf.d/php-phpmyadmin.ini
+    links:
+       - db:db
+    networks:
+        travellist:
+            ipv4_address: 10.2.0.40
+
+networks:
+  travellist:
+    driver: bridge
+    ipam:
+     config:
+       - subnet: 10.2.0.0/24
