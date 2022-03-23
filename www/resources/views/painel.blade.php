@@ -126,15 +126,6 @@ if (Auth::user() === null) {
                     </span>
                             </a>
                             <div class="dropdown-menu dropdown-menu-right pb-0">
-                                <a class="dropdown-item" href="/usuario/editar/{id}"><i class="bx bx-user mr-50"></i>
-                                    Edit Profile</a>
-                                <a class="dropdown-item" href="app-email.html"><i class="bx bx-envelope mr-50"></i> My
-                                    Inbox</a>
-                                <a class="dropdown-item" href="app-todo.html"><i class="bx bx-check-square mr-50"></i>
-                                    Task</a>
-                                <a class="dropdown-item" href="app-chat.html"><i class="bx bx-message mr-50"></i> Chats</a>
-                                <div class="dropdown-divider mb-0"></div>
-
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST">
                                     <a class="dropdown-item" href="{{ route('logout') }}"
                                        onclick="event.preventDefault();document.getElementById('logout-form').submit();"
@@ -171,8 +162,6 @@ if (Auth::user() === null) {
         <div class="main-menu-content">
             <ul class="navigation navigation-main" id="main-menu-navigation" data-menu="menu-navigation"
                 data-icon-style="lines">
-                <li class=" nav-item" id="menu-item-inicio"><a href="{{ route('painel') }}"><i
-                            class="bx bx-home"></i><span class="menu-title text-truncate">Início</span></a></li>
                 <li class=" nav-item" id="menu-item-cliente"><a href="{{ route('cliente') }}"><i
                             class="bx bxs-happy"></i><span class="menu-title text-truncate">Cliente</span></a></li>
                 <li class=" nav-item" id="menu-item-svc"><a href="{{ route('svc') }}"><i class="bx bx-globe"></i><span
@@ -215,8 +204,6 @@ if (Auth::user() === null) {
     <div class="main-menu-content">
         <ul class="navigation navigation-main" id="main-menu-navigation" data-menu="menu-navigation"
             data-icon-style="lines">
-            <li class=" nav-item" id="menu-item-inicio"><a href="{{ route('painel') }}"><i class="bx bx-home"></i><span
-                        class="menu-title text-truncate">Início</span></a></li>
             <li class=" nav-item" id="menu-item-cliente"><a href="{{ route('cliente') }}"><i
                         class="bx bxs-happy"></i><span class="menu-title text-truncate">Cliente</span></a></li>
             <li class=" nav-item" id="menu-item-svc"><a href="{{ route('svc') }}"><i class="bx bx-globe"></i><span

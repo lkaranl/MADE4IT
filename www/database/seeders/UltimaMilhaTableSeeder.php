@@ -220,7 +220,7 @@ class UltimaMilhaTableSeeder extends Seeder
 
       UltimaMilha::create([
         'id'      => '18',
-        'fantasia'     => 'WORLDNET FIBRA OPTICA/NBS',
+        'fantasia'     => 'WORLDNET FIBRA OPTICA/MADE4IT',
         'razao_social'  => 'WORLDNET SERVICOS DE TELECOMUNICACOES EIRELI',
         'cnpj'      => '18.456.569/0001-21',
         'telefone'      => '(69) 99989-6484',
@@ -265,7 +265,7 @@ class UltimaMilhaTableSeeder extends Seeder
         'email'      => 'fabianorondonia@gmail.com, hugo@centranet.com.br',
         'created_at'     => '2021-05-13 23:16:28',
       ]);
-  
+
       UltimaMilha::create([
         'id'      => '22',
         'fantasia'     => 'CONECTJA LTDA',

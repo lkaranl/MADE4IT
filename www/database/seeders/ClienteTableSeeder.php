@@ -16,7 +16,7 @@ class ClienteTableSeeder extends Seeder
     {
       Cliente::create([
         'id' => '10',
-        'nome' => 'NBS',
+        'nome' => 'MADE4IT',
         'created_at' => '2021-05-14 18:08:14',
         ]);
 

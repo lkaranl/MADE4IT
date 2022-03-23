@@ -22,8 +22,18 @@ use Illuminate\Http\Request;
 Auth::routes();
 
 // ROTAS - PAINEL
-Route::get('/',         [App\Http\Controllers\HomeController::class, 'painel'])->name('painel');
-Route::get('/painel',   [App\Http\Controllers\HomeController::class, 'painel'])->name('painel');
+Route::get('/painel',               [App\Http\Controllers\ClienteController::class, 'cliente'])->name('painel');
+
+// ROTAS - CLIENTE
+Route::get('/',                     [App\Http\Controllers\ClienteController::class, 'cliente'])->name('cliente');
+Route::get('/cliente', 				[App\Http\Controllers\ClienteController::class, 'cliente'])->name('cliente');
+Route::get('/cliente/cadastrar', 	[App\Http\Controllers\ClienteController::class, 'clienteCadastrar'])->name('clienteCadastrar');
+Route::post('/cliente/cadastrar', 	[App\Http\Controllers\ClienteController::class, 'cadastrar'])->name('cadastrarCliente');
+Route::get('/cliente/editar/{id}', 	[App\Http\Controllers\ClienteController::class, 'clienteEditar'])->name('clienteEditar');
+Route::post('/cliente/editar/{id}', [App\Http\Controllers\ClienteController::class, 'clienteAtualizar'])->name('clienteAtualizar');
+Route::get('/cliente/excluir/{id}', [App\Http\Controllers\ClienteController::class, 'clienteExcluir'])->name('clienteExcluir');
+Route::get('/cliente/buscar', 		[App\Http\Controllers\ClienteController::class, 'clienteBuscar'])->name('clienteBuscar');
+
 
 // ROTAS - ULTIMA MILHA
 Route::get('/ultima-milha', 				[App\Http\Controllers\UltimaMilhaController::class, 'ultimaMilha'])->name('ultimaMilha');
@@ -64,14 +74,6 @@ Route::post('/svc/editar/{id}', [App\Http\Controllers\SvcController::class, 'svc
 Route::get('/svc/excluir/{id}', [App\Http\Controllers\SvcController::class, 'svcExcluir'])->name('svcExcluir');
 Route::get('/svc/buscar', 		[App\Http\Controllers\SvcController::class, 'svcBuscar'])->name('svcBuscar');
 
-// ROTAS - CLIENTE
-Route::get('/cliente', 				[App\Http\Controllers\ClienteController::class, 'cliente'])->name('cliente');
-Route::get('/cliente/cadastrar', 	[App\Http\Controllers\ClienteController::class, 'clienteCadastrar'])->name('clienteCadastrar');
-Route::post('/cliente/cadastrar', 	[App\Http\Controllers\ClienteController::class, 'cadastrar'])->name('cadastrarCliente');
-Route::get('/cliente/editar/{id}', 	[App\Http\Controllers\ClienteController::class, 'clienteEditar'])->name('clienteEditar');
-Route::post('/cliente/editar/{id}', [App\Http\Controllers\ClienteController::class, 'clienteAtualizar'])->name('clienteAtualizar');
-Route::get('/cliente/excluir/{id}', [App\Http\Controllers\ClienteController::class, 'clienteExcluir'])->name('clienteExcluir');
-Route::get('/cliente/buscar', 		[App\Http\Controllers\ClienteController::class, 'clienteBuscar'])->name('clienteBuscar');
 
 // ROTAS - EQUIPAMENTO
 Route::get('/equipamento',              [App\Http\Controllers\EquipamentoController::class, 'equipamento'])->name('equipamento');

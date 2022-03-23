@@ -79,7 +79,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>2,
@@ -95,7 +95,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>3,
@@ -111,7 +111,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>4,
@@ -127,7 +127,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>25
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>5,
@@ -143,7 +143,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>6,
@@ -159,7 +159,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>7,
@@ -175,7 +175,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>8,
@@ -191,7 +191,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>9,
@@ -207,7 +207,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>10,
@@ -223,7 +223,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>11,
@@ -239,7 +239,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>12,
@@ -255,7 +255,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>13,
@@ -271,7 +271,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>14,
@@ -287,7 +287,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>15,
@@ -303,7 +303,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>16,
@@ -319,7 +319,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>17,
@@ -335,7 +335,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>18,
@@ -351,7 +351,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>19,
@@ -367,7 +367,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>20,
@@ -383,7 +383,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>21,
@@ -399,7 +399,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>22,
@@ -415,7 +415,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>23,
@@ -431,7 +431,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>24,
@@ -447,7 +447,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>25,
@@ -463,7 +463,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>26,
@@ -479,7 +479,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>27,
@@ -495,7 +495,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>28,
@@ -511,7 +511,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>2
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>29,
@@ -527,7 +527,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>2
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>30,
@@ -543,7 +543,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>1
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>31,
@@ -559,7 +559,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>1
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>32,
@@ -575,7 +575,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>33,
@@ -591,7 +591,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>1
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>34,
@@ -607,7 +607,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>1
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>35,
@@ -623,7 +623,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>1
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>36,
@@ -639,7 +639,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>2
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>37,
@@ -655,7 +655,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>1
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>38,
@@ -671,7 +671,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>2
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>39,
@@ -687,7 +687,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>40,
@@ -703,7 +703,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>41,
@@ -719,7 +719,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>42,
@@ -735,7 +735,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>43,
@@ -751,7 +751,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>44,
@@ -767,7 +767,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>45,
@@ -783,7 +783,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>46,
@@ -799,7 +799,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>47,
@@ -815,7 +815,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>48,
@@ -831,7 +831,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>49,
@@ -847,7 +847,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>50,
@@ -863,7 +863,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>51,
@@ -879,7 +879,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>52,
@@ -895,7 +895,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>53,
@@ -911,7 +911,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>54,
@@ -927,7 +927,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>55,
@@ -943,7 +943,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>56,
@@ -959,7 +959,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>57,
@@ -975,7 +975,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>58,
@@ -991,7 +991,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>59,
@@ -1007,7 +1007,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>60,
@@ -1023,7 +1023,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>61,
@@ -1039,7 +1039,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>62,
@@ -1055,7 +1055,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>63,
@@ -1071,7 +1071,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>64,
@@ -1087,7 +1087,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>65,
@@ -1103,7 +1103,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>66,
@@ -1119,7 +1119,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>67,
@@ -1135,7 +1135,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>68,
@@ -1151,7 +1151,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>69,
@@ -1167,7 +1167,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>70,
@@ -1183,7 +1183,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>71,
@@ -1199,7 +1199,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>72,
@@ -1215,7 +1215,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>73,
@@ -1231,7 +1231,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>74,
@@ -1247,7 +1247,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>75,
@@ -1263,7 +1263,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>76,
@@ -1279,7 +1279,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>77,
@@ -1295,7 +1295,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>78,
@@ -1311,7 +1311,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>79,
@@ -1327,7 +1327,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>80,
@@ -1343,7 +1343,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>81,
@@ -1359,7 +1359,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>84,
@@ -1375,7 +1375,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>85,
@@ -1391,7 +1391,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>86,
@@ -1407,7 +1407,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>87,
@@ -1423,7 +1423,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>88,
@@ -1439,7 +1439,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>89,
@@ -1455,7 +1455,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>90,
@@ -1471,7 +1471,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>91,
@@ -1487,7 +1487,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>92,
@@ -1503,7 +1503,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>93,
@@ -1519,7 +1519,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>95,
@@ -1535,7 +1535,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>9
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>96,
@@ -1551,7 +1551,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>9
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>97,
@@ -1567,7 +1567,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>9
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>98,
@@ -1583,7 +1583,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>41
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>99,
@@ -1599,7 +1599,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>41
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>100,
@@ -1615,7 +1615,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>101,
@@ -1631,7 +1631,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>36
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>102,
@@ -1647,7 +1647,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>36
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>103,
@@ -1663,7 +1663,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>36
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>104,
@@ -1679,7 +1679,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>36
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>105,
@@ -1695,7 +1695,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>106,
@@ -1711,7 +1711,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>107,
@@ -1727,7 +1727,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>108,
@@ -1743,7 +1743,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>109,
@@ -1759,7 +1759,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>110,
@@ -1775,7 +1775,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>111,
@@ -1791,7 +1791,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>112,
@@ -1807,7 +1807,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>116,
@@ -1823,7 +1823,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>117,
@@ -1839,7 +1839,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>118,
@@ -1855,7 +1855,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>119,
@@ -1871,7 +1871,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>120,
@@ -1887,7 +1887,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>121,
@@ -1903,7 +1903,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>122,
@@ -1919,7 +1919,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>123,
@@ -1935,7 +1935,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>124,
@@ -1951,7 +1951,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>125,
@@ -1967,7 +1967,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>126,
@@ -1983,7 +1983,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>127,
@@ -1999,7 +1999,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>128,
@@ -2015,7 +2015,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>129,
@@ -2031,7 +2031,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>130,
@@ -2047,7 +2047,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>131,
@@ -2063,7 +2063,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>132,
@@ -2079,7 +2079,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>133,
@@ -2095,7 +2095,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>134,
@@ -2111,7 +2111,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>135,
@@ -2127,7 +2127,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>136,
@@ -2143,7 +2143,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>137,
@@ -2159,7 +2159,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>138,
@@ -2175,7 +2175,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>139,
@@ -2191,7 +2191,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>140,
@@ -2207,7 +2207,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>141,
@@ -2223,7 +2223,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>142,
@@ -2239,7 +2239,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>143,
@@ -2255,7 +2255,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>144,
@@ -2271,7 +2271,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>145,
@@ -2287,7 +2287,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>146,
@@ -2303,7 +2303,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>147,
@@ -2319,7 +2319,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>148,
@@ -2335,7 +2335,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>149,
@@ -2351,7 +2351,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>150,
@@ -2367,7 +2367,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>151,
@@ -2383,7 +2383,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>152,
@@ -2399,7 +2399,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>156,
@@ -2415,7 +2415,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>157,
@@ -2431,7 +2431,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>158,
@@ -2447,7 +2447,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>159,
@@ -2463,7 +2463,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>160,
@@ -2479,7 +2479,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>161,
@@ -2495,7 +2495,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>162,
@@ -2511,7 +2511,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>163,
@@ -2527,7 +2527,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>164,
@@ -2543,7 +2543,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>165,
@@ -2559,7 +2559,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>167,
@@ -2575,7 +2575,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>168,
@@ -2591,7 +2591,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>15
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>169,
@@ -2607,7 +2607,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>15
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>170,
@@ -2623,7 +2623,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>15
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>171,
@@ -2639,7 +2639,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>15
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>172,
@@ -2655,7 +2655,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>15
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>173,
@@ -2671,7 +2671,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>174,
@@ -2687,7 +2687,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>175,
@@ -2703,7 +2703,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>176,
@@ -2719,7 +2719,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>177,
@@ -2735,7 +2735,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>178,
@@ -2751,7 +2751,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>14
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>179,
@@ -2767,7 +2767,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>180,
@@ -2783,7 +2783,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>181,
@@ -2799,7 +2799,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>182,
@@ -2815,7 +2815,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>16
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>183,
@@ -2831,7 +2831,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>184,
@@ -2847,7 +2847,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>185,
@@ -2863,7 +2863,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>186,
@@ -2879,7 +2879,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>187,
@@ -2895,7 +2895,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>188,
@@ -2911,7 +2911,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>16
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>189,
@@ -2927,7 +2927,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>190,
@@ -2943,7 +2943,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>16
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>191,
@@ -2959,7 +2959,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>16
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>192,
@@ -2975,7 +2975,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>16
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>193,
@@ -2991,7 +2991,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>16
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>194,
@@ -3007,7 +3007,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>16
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>195,
@@ -3023,7 +3023,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>17
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>196,
@@ -3039,7 +3039,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>17
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>197,
@@ -3055,7 +3055,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>17
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>198,
@@ -3071,7 +3071,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>17
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>199,
@@ -3087,7 +3087,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>17
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>200,
@@ -3103,7 +3103,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>17
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>201,
@@ -3119,7 +3119,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>18
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>202,
@@ -3135,7 +3135,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>18
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>203,
@@ -3151,7 +3151,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>18
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>204,
@@ -3167,7 +3167,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>18
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>205,
@@ -3183,7 +3183,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>206,
@@ -3199,7 +3199,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>207,
@@ -3215,7 +3215,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>18
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>210,
@@ -3231,7 +3231,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>211,
@@ -3247,7 +3247,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>212,
@@ -3263,7 +3263,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>213,
@@ -3279,7 +3279,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>214,
@@ -3295,7 +3295,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>215,
@@ -3311,7 +3311,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>216,
@@ -3327,7 +3327,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>217,
@@ -3343,7 +3343,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>218,
@@ -3359,7 +3359,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>219,
@@ -3375,7 +3375,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>220,
@@ -3391,7 +3391,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>221,
@@ -3407,7 +3407,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>222,
@@ -3423,7 +3423,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>223,
@@ -3439,7 +3439,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>224,
@@ -3455,7 +3455,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>225,
@@ -3471,7 +3471,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>226,
@@ -3487,7 +3487,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>227,
@@ -3503,7 +3503,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>228,
@@ -3519,7 +3519,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>229,
@@ -3535,7 +3535,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>230,
@@ -3551,7 +3551,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>231,
@@ -3567,7 +3567,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>232,
@@ -3583,7 +3583,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>233,
@@ -3599,7 +3599,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>234,
@@ -3615,7 +3615,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>235,
@@ -3631,7 +3631,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>19
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>236,
@@ -3647,7 +3647,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>237,
@@ -3663,7 +3663,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>238,
@@ -3679,7 +3679,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>239,
@@ -3695,7 +3695,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>240,
@@ -3711,7 +3711,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>241,
@@ -3727,7 +3727,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>242,
@@ -3743,7 +3743,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>243,
@@ -3759,7 +3759,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>244,
@@ -3775,7 +3775,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>245,
@@ -3791,7 +3791,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>246,
@@ -3807,7 +3807,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>247,
@@ -3823,7 +3823,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>248,
@@ -3839,7 +3839,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>249,
@@ -3855,7 +3855,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>250,
@@ -3871,7 +3871,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>251,
@@ -3887,7 +3887,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>252,
@@ -3903,7 +3903,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>253,
@@ -3919,7 +3919,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>254,
@@ -3935,7 +3935,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>255,
@@ -3951,7 +3951,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>256,
@@ -3967,7 +3967,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>257,
@@ -3983,7 +3983,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>258,
@@ -3999,7 +3999,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>259,
@@ -4015,7 +4015,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>260,
@@ -4031,7 +4031,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>261,
@@ -4047,7 +4047,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>262,
@@ -4063,7 +4063,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>263,
@@ -4079,7 +4079,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>264,
@@ -4095,7 +4095,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>265,
@@ -4111,7 +4111,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>266,
@@ -4127,7 +4127,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>267,
@@ -4143,7 +4143,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>268,
@@ -4159,7 +4159,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>269,
@@ -4175,7 +4175,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>270,
@@ -4191,7 +4191,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>271,
@@ -4207,7 +4207,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>272,
@@ -4223,7 +4223,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>273,
@@ -4239,7 +4239,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>274,
@@ -4255,7 +4255,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>275,
@@ -4271,7 +4271,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>276,
@@ -4287,7 +4287,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>277,
@@ -4303,7 +4303,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>278,
@@ -4319,7 +4319,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>279,
@@ -4335,7 +4335,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>280,
@@ -4351,7 +4351,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>281,
@@ -4367,7 +4367,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>282,
@@ -4383,7 +4383,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>283,
@@ -4399,7 +4399,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>284,
@@ -4415,7 +4415,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>285,
@@ -4431,7 +4431,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>286,
@@ -4447,7 +4447,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>287,
@@ -4463,7 +4463,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>288,
@@ -4479,7 +4479,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>289,
@@ -4495,7 +4495,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>290,
@@ -4511,7 +4511,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>291,
@@ -4527,7 +4527,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>292,
@@ -4543,7 +4543,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>293,
@@ -4559,7 +4559,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>294,
@@ -4575,7 +4575,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>295,
@@ -4591,7 +4591,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>296,
@@ -4607,7 +4607,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>297,
@@ -4623,7 +4623,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>298,
@@ -4639,7 +4639,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>299,
@@ -4655,7 +4655,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>300,
@@ -4671,7 +4671,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>301,
@@ -4687,7 +4687,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>302,
@@ -4703,7 +4703,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>303,
@@ -4719,7 +4719,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>304,
@@ -4735,7 +4735,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>305,
@@ -4751,7 +4751,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>306,
@@ -4767,7 +4767,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>307,
@@ -4783,7 +4783,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>308,
@@ -4799,7 +4799,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>309,
@@ -4815,7 +4815,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>310,
@@ -4831,7 +4831,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>37
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>311,
@@ -4847,7 +4847,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>312,
@@ -4863,7 +4863,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>313,
@@ -4879,7 +4879,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>314,
@@ -4895,7 +4895,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>315,
@@ -4911,7 +4911,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>37
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>316,
@@ -4927,7 +4927,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>317,
@@ -4943,7 +4943,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>318,
@@ -4959,7 +4959,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>319,
@@ -4975,7 +4975,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>320,
@@ -4991,7 +4991,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>321,
@@ -5007,7 +5007,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>37
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>322,
@@ -5023,7 +5023,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>323,
@@ -5039,7 +5039,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>324,
@@ -5055,7 +5055,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>21
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>327,
@@ -5071,7 +5071,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>328,
@@ -5087,7 +5087,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>10
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>329,
@@ -5103,7 +5103,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>330,
@@ -5119,7 +5119,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>3
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>331,
@@ -5135,7 +5135,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>332,
@@ -5151,7 +5151,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>26
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>333,
@@ -5167,7 +5167,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>334,
@@ -5183,7 +5183,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>24
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>335,
@@ -5199,7 +5199,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>24
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>336,
@@ -5215,7 +5215,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>24
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>337,
@@ -5231,7 +5231,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>24
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>338,
@@ -5247,7 +5247,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>342,
@@ -5263,7 +5263,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>343,
@@ -5279,7 +5279,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>344,
@@ -5295,7 +5295,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>345,
@@ -5311,7 +5311,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>346,
@@ -5327,7 +5327,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>347,
@@ -5343,7 +5343,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>348,
@@ -5359,7 +5359,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>349,
@@ -5375,7 +5375,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>350,
@@ -5391,7 +5391,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>351,
@@ -5407,7 +5407,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>352,
@@ -5423,7 +5423,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>353,
@@ -5439,7 +5439,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>358,
@@ -5455,7 +5455,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>359,
@@ -5471,7 +5471,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>360,
@@ -5487,7 +5487,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>361,
@@ -5503,7 +5503,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>362,
@@ -5519,7 +5519,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>363,
@@ -5535,7 +5535,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>364,
@@ -5551,7 +5551,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>365,
@@ -5567,7 +5567,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>366,
@@ -5583,7 +5583,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>367,
@@ -5599,7 +5599,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>368,
@@ -5615,7 +5615,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>369,
@@ -5631,7 +5631,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>370,
@@ -5647,7 +5647,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>371,
@@ -5663,7 +5663,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>372,
@@ -5679,7 +5679,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>373,
@@ -5695,7 +5695,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>374,
@@ -5711,7 +5711,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>375,
@@ -5727,7 +5727,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>376,
@@ -5743,7 +5743,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>377,
@@ -5759,7 +5759,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>378,
@@ -5775,7 +5775,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>379,
@@ -5791,7 +5791,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>380,
@@ -5807,7 +5807,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>381,
@@ -5823,7 +5823,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>382,
@@ -5839,7 +5839,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>383,
@@ -5855,7 +5855,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>384,
@@ -5871,7 +5871,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>385,
@@ -5887,7 +5887,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>33
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>387,
@@ -5895,7 +5895,7 @@ class LmcTableSeeder extends Seeder
 //         'spid'=>'10',
 //         'cidade_id'=>34,
 //         'nome'=>'LMC.10.PBW.0002',
-//         'ce_identify'=>'NBS-PBW-NTW-R:X',
+//         'ce_identify'=>'MADE4IT-PBW-NTW-R:X',
 //         'vlan_gerencia'=>'300',
 //         'created_at'=>'2021-06-03 18:08:14',
 //         'interface'=>'subinterface-qinq',
@@ -5903,7 +5903,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>388,
@@ -5919,7 +5919,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>389,
@@ -5935,7 +5935,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>390,
@@ -5943,7 +5943,7 @@ class LmcTableSeeder extends Seeder
 //         'spid'=>'10',
 //         'cidade_id'=>34,
 //         'nome'=>'LMC.10.PBW.0126',
-//         'ce_identify'=>'NBS Servidor',
+//         'ce_identify'=>'MADE4IT Servidor',
 //         'vlan_gerencia'=>'300',
 //         'created_at'=>'2021-06-03 18:08:14',
 //         'interface'=>'subinterface-qinq',
@@ -5951,7 +5951,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>391,
@@ -5967,7 +5967,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>28
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>392,
@@ -5983,7 +5983,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>27
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>393,
@@ -5999,7 +5999,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>394,
@@ -6015,7 +6015,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>395,
@@ -6031,7 +6031,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>396,
@@ -6047,7 +6047,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>397,
@@ -6063,7 +6063,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>398,
@@ -6079,7 +6079,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>399,
@@ -6095,7 +6095,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>400,
@@ -6111,7 +6111,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>401,
@@ -6127,7 +6127,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>402,
@@ -6143,7 +6143,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>403,
@@ -6159,7 +6159,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>404,
@@ -6175,7 +6175,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>405,
@@ -6191,7 +6191,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>406,
@@ -6207,7 +6207,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>407,
@@ -6223,7 +6223,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>408,
@@ -6239,7 +6239,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>409,
@@ -6255,7 +6255,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>410,
@@ -6271,7 +6271,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>411,
@@ -6287,7 +6287,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>412,
@@ -6303,7 +6303,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>39
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>413,
@@ -6319,7 +6319,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>414,
@@ -6335,7 +6335,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>415,
@@ -6351,7 +6351,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>416,
@@ -6367,7 +6367,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>34
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>417,
@@ -6375,7 +6375,7 @@ class LmcTableSeeder extends Seeder
 //         'spid'=>'10',
 //         'cidade_id'=>36,
 //         'nome'=>'LMC.10.PVO.0001',
-//         'ce_identify'=>'NBS-PVO-DPD-R:X',
+//         'ce_identify'=>'MADE4IT-PVO-DPD-R:X',
 //         'vlan_gerencia'=>'300',
 //         'created_at'=>'2021-06-03 18:08:14',
 //         'interface'=>'subinterface-qinq',
@@ -6383,7 +6383,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>418,
@@ -6399,7 +6399,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>419,
@@ -6415,7 +6415,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>420,
@@ -6431,7 +6431,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>421,
@@ -6447,7 +6447,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>422,
@@ -6463,7 +6463,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>423,
@@ -6479,7 +6479,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>424,
@@ -6495,7 +6495,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>425,
@@ -6511,7 +6511,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>426,
@@ -6527,7 +6527,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>427,
@@ -6543,7 +6543,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>428,
@@ -6559,7 +6559,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>429,
@@ -6575,7 +6575,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>430,
@@ -6591,7 +6591,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>431,
@@ -6607,7 +6607,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>432,
@@ -6623,7 +6623,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>433,
@@ -6639,7 +6639,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>434,
@@ -6655,7 +6655,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>435,
@@ -6671,7 +6671,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>436,
@@ -6687,7 +6687,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>437,
@@ -6703,7 +6703,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>438,
@@ -6719,7 +6719,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>439,
@@ -6735,7 +6735,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>440,
@@ -6751,7 +6751,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>441,
@@ -6767,7 +6767,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>442,
@@ -6783,7 +6783,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>443,
@@ -6799,7 +6799,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>444,
@@ -6815,7 +6815,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>445,
@@ -6831,7 +6831,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>446,
@@ -6847,7 +6847,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>447,
@@ -6863,7 +6863,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>448,
@@ -6879,7 +6879,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>449,
@@ -6895,7 +6895,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>450,
@@ -6911,7 +6911,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>451,
@@ -6927,7 +6927,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>452,
@@ -6943,7 +6943,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>453,
@@ -6959,7 +6959,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>454,
@@ -6975,7 +6975,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>455,
@@ -6991,7 +6991,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>456,
@@ -7007,7 +7007,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>457,
@@ -7023,7 +7023,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>458,
@@ -7039,7 +7039,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>459,
@@ -7055,7 +7055,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>460,
@@ -7071,7 +7071,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>35
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>461,
@@ -7087,7 +7087,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>462,
@@ -7103,7 +7103,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>463,
@@ -7119,7 +7119,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>464,
@@ -7135,7 +7135,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>465,
@@ -7151,7 +7151,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>466,
@@ -7167,7 +7167,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>467,
@@ -7183,7 +7183,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>468,
@@ -7199,7 +7199,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>469,
@@ -7215,7 +7215,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>470,
@@ -7231,7 +7231,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>471,
@@ -7247,7 +7247,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>472,
@@ -7263,7 +7263,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>473,
@@ -7279,7 +7279,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>474,
@@ -7295,7 +7295,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>475,
@@ -7311,7 +7311,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>476,
@@ -7327,7 +7327,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>477,
@@ -7343,7 +7343,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>478,
@@ -7359,7 +7359,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>479,
@@ -7375,7 +7375,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>480,
@@ -7391,7 +7391,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>481,
@@ -7407,7 +7407,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>482,
@@ -7423,7 +7423,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>483,
@@ -7439,7 +7439,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>484,
@@ -7455,7 +7455,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>485,
@@ -7471,7 +7471,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>486,
@@ -7487,7 +7487,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>487,
@@ -7503,7 +7503,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>488,
@@ -7519,7 +7519,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>7
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>489,
@@ -7535,7 +7535,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>490,
@@ -7551,7 +7551,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>491,
@@ -7567,7 +7567,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>492,
@@ -7583,7 +7583,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>493,
@@ -7599,7 +7599,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>494,
@@ -7615,7 +7615,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>495,
@@ -7631,7 +7631,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>496,
@@ -7647,7 +7647,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>497,
@@ -7663,7 +7663,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>498,
@@ -7679,7 +7679,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>22
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>501,
@@ -7695,7 +7695,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>503,
@@ -7711,7 +7711,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>504,
@@ -7727,7 +7727,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>505,
@@ -7743,7 +7743,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>506,
@@ -7759,7 +7759,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>507,
@@ -7775,7 +7775,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>508,
@@ -7791,7 +7791,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>509,
@@ -7807,7 +7807,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>510,
@@ -7823,7 +7823,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>511,
@@ -7839,7 +7839,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>512,
@@ -7855,7 +7855,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>513,
@@ -7871,7 +7871,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>514,
@@ -7887,7 +7887,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>515,
@@ -7903,7 +7903,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>516,
@@ -7919,7 +7919,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>517,
@@ -7935,7 +7935,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>518,
@@ -7951,7 +7951,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>519,
@@ -7967,7 +7967,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>520,
@@ -7983,7 +7983,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>521,
@@ -7999,7 +7999,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>522,
@@ -8015,7 +8015,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>523,
@@ -8031,7 +8031,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>524,
@@ -8047,7 +8047,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>525,
@@ -8063,7 +8063,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>526,
@@ -8079,7 +8079,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>533,
@@ -8095,7 +8095,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>47
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>534,
@@ -8111,7 +8111,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>47
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>535,
@@ -8127,7 +8127,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>45
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>536,
@@ -8143,7 +8143,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>45
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>532,
@@ -8159,7 +8159,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>45
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>537,
@@ -8175,7 +8175,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>45
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>538,
@@ -8191,7 +8191,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>45
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>539,
@@ -8207,7 +8207,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>540,
@@ -8223,7 +8223,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>541,
@@ -8239,7 +8239,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>542,
@@ -8255,7 +8255,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>38
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>543,
@@ -8271,7 +8271,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>46
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>544,
@@ -8287,7 +8287,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>46
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>545,
@@ -8303,7 +8303,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>46
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>546,
@@ -8319,7 +8319,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>46
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>547,
@@ -8335,7 +8335,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>46
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>548,
@@ -8351,7 +8351,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>46
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>549,
@@ -8367,7 +8367,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>46
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>550,
@@ -8383,7 +8383,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>46
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>551,
@@ -8399,7 +8399,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>20
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>552,
@@ -8415,7 +8415,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>13
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>553,
@@ -8431,7 +8431,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>8
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>554,
@@ -8447,7 +8447,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>47
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>555,
@@ -8463,7 +8463,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>47
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>556,
@@ -8479,7 +8479,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>47
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>561,
@@ -8495,7 +8495,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>42
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>562,
@@ -8511,7 +8511,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>42
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>563,
@@ -8527,7 +8527,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>42
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>565,
@@ -8543,7 +8543,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>566,
@@ -8559,7 +8559,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>569,
@@ -8575,7 +8575,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>25
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>570,
@@ -8591,7 +8591,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>25
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>571,
@@ -8607,7 +8607,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>25
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>572,
@@ -8623,7 +8623,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>573,
@@ -8639,7 +8639,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>574,
@@ -8655,7 +8655,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>23
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>575,
@@ -8671,7 +8671,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>25
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>579,
@@ -8687,7 +8687,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>44
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>580,
@@ -8703,7 +8703,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>44
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>581,
@@ -8719,7 +8719,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>44
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>578,
@@ -8735,7 +8735,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>44
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>583,
@@ -8751,7 +8751,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>43
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>584,
@@ -8767,7 +8767,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>43
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>585,
@@ -8783,7 +8783,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>43
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>586,
@@ -8799,7 +8799,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>587,
@@ -8815,7 +8815,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>588,
@@ -8831,7 +8831,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>29
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>589,
@@ -8847,7 +8847,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>590,
@@ -8863,7 +8863,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>29
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>591,
@@ -8879,7 +8879,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>29
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>592,
@@ -8895,7 +8895,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>29
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>593,
@@ -8911,7 +8911,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>594,
@@ -8927,7 +8927,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>595,
@@ -8943,7 +8943,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>596,
@@ -8959,7 +8959,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>597,
@@ -8975,7 +8975,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>598,
@@ -8991,7 +8991,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>599,
@@ -9007,7 +9007,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>600,
@@ -9023,7 +9023,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>601,
@@ -9039,7 +9039,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>602,
@@ -9055,7 +9055,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>603,
@@ -9071,7 +9071,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>604,
@@ -9087,7 +9087,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>605,
@@ -9103,7 +9103,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>606,
@@ -9119,7 +9119,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>607,
@@ -9135,7 +9135,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>608,
@@ -9151,7 +9151,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>609,
@@ -9167,7 +9167,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>610,
@@ -9183,7 +9183,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>611,
@@ -9199,7 +9199,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>612,
@@ -9215,7 +9215,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>613,
@@ -9231,7 +9231,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>614,
@@ -9247,7 +9247,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>615,
@@ -9263,7 +9263,7 @@ class LmcTableSeeder extends Seeder
 //         'ativo_id'=>30
 //         ] );
 
-                    
+
 
 //         Lmc::create( [
 //         'id'=>616,
