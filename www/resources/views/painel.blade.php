@@ -210,8 +210,6 @@ if (Auth::user() === null) {
                         class="menu-title text-truncate">SVC</span></a></li>
             <li class=" nav-item" id="menu-item-lmc"><a href="{{ route('lmc') }}"><i class="bx bx-globe"></i><span
                         class="menu-title text-truncate">LMC</span></a></li>
-            <li class=" nav-item" id="menu-item-lmx"><a href="{{ route('lmx') }}"><i class="bx bx-globe"></i><span
-                        class="menu-title text-truncate">LMX</span></a></li>
         </ul>
     </div>
     </div>
