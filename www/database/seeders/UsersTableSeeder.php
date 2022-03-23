@@ -18,7 +18,7 @@ class UsersTableSeeder extends Seeder
      User::create([
           'id'      => '1',
           'name'     => 'Admin',
-          'surname'  => 'NBS',
+          'surname'  => 'MADE4IT',
           'cpf'      => '26.824.572/0001-89',
           'birth'      => '2017-01-09',
           'sex'     => 'Masculino',

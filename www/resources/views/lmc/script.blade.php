@@ -157,7 +157,7 @@ set api-ssl disabled=yes
 /snmp community
 set [ find default=yes ] addresses=131.72.152.0/24 name="m0n1t0r@-Nb\$"
 /snmp
-set contact=suporte@nbstelecom.com.br enabled=yes location="NBS - Telecom" trap-generators="" trap-version=2
+set contact=suporte@nbstelecom.com.br enabled=yes location="MADE4IT - Telecom" trap-generators="" trap-version=2
 /system identity
 set name="$identy"
 ..

@@ -9,7 +9,7 @@
     <meta name="description" content="Content management dashboard">
     <meta name="keywords" content="Dashboard, Administrative">
     <meta name="author" content="Agência Staff">
-    <title>Sgen NBS</title>
+    <title>Sgen MADE4IT</title>
 
     <!-- {headerinc} -->
 

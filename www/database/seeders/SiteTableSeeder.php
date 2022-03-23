@@ -21,9 +21,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.23.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 3,
-        'sigla' => 'NBS-APIS-FZN',
+        'sigla' => 'MADE4IT-APIS-1',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -32,9 +32,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.22.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 5,
-        'sigla' => 'NBS-AQS-CNT',
+        'sigla' => 'MADE4IT-AQS-2',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -43,9 +43,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.29.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 36,
-        'sigla' => 'NBS-PVO-DPD',
+        'sigla' => 'MADE4IT-PVO-3',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -54,9 +54,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.21.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 8,
-        'sigla' => 'NBS-CAUL-TRV',
+        'sigla' => 'MADE4IT-CAUL-4',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -65,9 +65,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.2.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 18,
-        'sigla' => 'NBS-EOE-CNT',
+        'sigla' => 'MADE4IT-EOE-5',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -76,9 +76,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.34.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 17,
-        'sigla' => 'NBS-CMR-CNT',
+        'sigla' => 'MADE4IT-CMR-6',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -87,9 +87,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.6.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 32,
-        'sigla' => 'NBS-OPO-BJN',
+        'sigla' => 'MADE4IT-OPO-7',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -98,9 +98,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.7.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 22,
-        'sigla' => 'NBS-JAW-BLB',
+        'sigla' => 'MADE4IT-JAW-8',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -109,9 +109,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.37.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 19,
-        'sigla' => 'NBS-GJT-CNT',
+        'sigla' => 'MADE4IT-GJT-9',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -120,9 +120,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.24.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 21,
-        'sigla' => 'NBS-ITDO-CNT',
+        'sigla' => 'MADE4IT-ITDO-10',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -131,9 +131,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.27.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 4,
-        'sigla' => 'NBS-ADW-CNT',
+        'sigla' => 'MADE4IT-ADW-11',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -142,9 +142,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.26.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 26,
-        'sigla' => 'NBS-MTRR-CNT',
+        'sigla' => 'MADE4IT-MTRR-12',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -153,9 +153,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.25.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 48,
-        'sigla' => 'NBS-URUW-CNT',
+        'sigla' => 'MADE4IT-URUW-13',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -164,9 +164,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.38.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 27,
-        'sigla' => 'NBS-MNK-CNT',
+        'sigla' => 'MADE4IT-MNK-14',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -175,9 +175,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.13.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 28,
-        'sigla' => 'NBS-NBA-CNT',
+        'sigla' => 'MADE4IT-NBA-15',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -186,9 +186,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.3.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 9,
-        'sigla' => 'NBS-CWL-NCC',
+        'sigla' => 'MADE4IT-CWL-16',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -197,9 +197,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.18.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 34,
-        'sigla' => 'NBS-PBW-DGP',
+        'sigla' => 'MADE4IT-PBW-17',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -208,9 +208,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.17.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 34,
-        'sigla' => 'NBS-PBW-PSR',
+        'sigla' => 'MADE4IT-PBW-18',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -219,9 +219,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.1.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 34,
-        'sigla' => 'NBS-PBW-CNT',
+        'sigla' => 'MADE4IT-PBW-19',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -230,9 +230,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.19.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 51,
-        'sigla' => 'NBS-VHA-UHA',
+        'sigla' => 'MADE4IT-VHA-20',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -241,9 +241,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.20.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 51,
-        'sigla' => 'NBS-VHA-VFB',
+        'sigla' => 'MADE4IT-VHA-21',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -252,9 +252,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.28.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 30,
-        'sigla' => 'NBS-NVUO-CNT',
+        'sigla' => 'MADE4IT-NVUO-22',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -263,9 +263,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.5.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 23,
-        'sigla' => 'NBS-JIP-DAB',
+        'sigla' => 'MADE4IT-JIP-23',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -274,9 +274,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.36.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 20,
-        'sigla' => 'NBS-GUM-CNT',
+        'sigla' => 'MADE4IT-GUM-24',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -285,9 +285,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.31.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 36,
-        'sigla' => 'NBS-PVO-VIV',
+        'sigla' => 'MADE4IT-PVO-25',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -296,9 +296,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.30.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 11,
-        'sigla' => 'NBS-CDEY-PCN',
+        'sigla' => 'MADE4IT-CDEY-26',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -307,9 +307,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.10.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 24,
-        'sigla' => 'NBS-MACH-QBC',
+        'sigla' => 'MADE4IT-MACH-27',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -318,9 +318,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.12.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 40,
-        'sigla' => 'NBS-RMM-CNT',
+        'sigla' => 'MADE4IT-RMM-28',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -329,9 +329,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.8.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 47,
-        'sigla' => 'NBS-TORM-CNT',
+        'sigla' => 'MADE4IT-TORM-29',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -340,9 +340,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.4.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 37,
-        'sigla' => 'NBS-PYM-CNT',
+        'sigla' => 'MADE4IT-PYM-30',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -351,9 +351,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.9.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 49,
-        'sigla' => 'NBS-VEAI-CNT',
+        'sigla' => 'MADE4IT-VEAI-31',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -362,9 +362,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.35.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 50,
-        'sigla' => 'NBS-VALP-CNT',
+        'sigla' => 'MADE4IT-VALP-32',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -373,9 +373,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.16.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 43,
-        'sigla' => 'NBS-SFYO-CNT',
+        'sigla' => 'MADE4IT-SFYO-33',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -384,9 +384,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.14.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 44,
-        'sigla' => 'NBS-SMGE-CNT',
+        'sigla' => 'MADE4IT-SMGE-34',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -395,9 +395,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.15.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 45,
-        'sigla' => 'NBS-SRGS-CNT',
+        'sigla' => 'MADE4IT-SRGS-35',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -406,9 +406,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.11.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 24,
-        'sigla' => 'NBS-MACH-CNT',
+        'sigla' => 'MADE4IT-MACH-36',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -417,9 +417,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.33.0/24',
         'estado_id'     => 21,
         'cidade_id'     => 3,
-        'sigla' => 'NBS-APIS-CNT',
+        'sigla' => 'MADE4IT-APIS-37',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       // FIM RONDONIA
@@ -432,9 +432,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.50.0/24',
         'estado_id'     => 10,
         'cidade_id'     => 52,
-        'sigla' => 'NBS-CBA-TLT',
+        'sigla' => 'MADE4IT-CBA-38',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       Site::create([
@@ -443,9 +443,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.51.0/24',
         'estado_id'     => 10,
         'cidade_id'     => 52,
-        'sigla' => 'NBS-CBA-VIV',
+        'sigla' => 'MADE4IT-CBA-39',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       // FIM MATO GROSSO
@@ -458,9 +458,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.32.0/24',
         'estado_id'     => 4,
         'cidade_id'     => 53,
-        'sigla' => 'NBS-HUT-VIV',
+        'sigla' => 'MADE4IT-HUT-40',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
       // FIM AMAZONAS
@@ -473,9 +473,9 @@ class SiteTableSeeder extends Seeder
         'faixa_administrativa' => '10.0.100.0/24',
         'estado_id'     => 24,
         'cidade_id'     => 54,
-        'sigla' => 'NBS-SPO-EQN',
+        'sigla' => 'MADE4IT-SPO-41',
         'coordenadas' =>'Lat: -10.8754 Lon: -61.9549',
-        'created_at'     => '2021-05-14 18:08:14',
+        'created_at'     => '2022-03-23 18:08:14',
       ]);
 
     }
