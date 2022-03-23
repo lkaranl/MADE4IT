@@ -24,7 +24,7 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
-    
+
 
     public function faixaIPs($table = null, $coluna = null)
     {
@@ -34,13 +34,13 @@ class HomeController extends Controller
             //CALCULO PARA PEGAR O MAIOR ID
             $id = DB::table($table)->max('id');
 
-           
+
             //pega o IP correspondente ao ID
             $ip = DB::table($table)
             ->where('id',$id)
             ->select($coluna)
             ->get();
-           
+
 
             // limpa string do IP, pois o mesmo vem com caracteres especiais
             $dados = array('somas'=>'','faixas'=>'','route_mestre'=>'','route_escravo'=>'');
@@ -49,14 +49,14 @@ class HomeController extends Controller
                 '[{"'.$coluna.'":"' => '',
                 '\/' => '.',
                 '"}]' => '',
-                '/' => '.' 
+                '/' => '.'
             );
             $ip = strtr($string, $string_limpa);
             echo $ip;
             #exit();
-            
+
             // SEPARA O IP EM PARTES E AS TRANSFORMA EM INT (OU FLOAT SEI LA) E
-            //  - SEPARA EM UM ARRAY (EX: $ipSoma[0] = 192, $ipSoma[1] = 168, ETC) 
+            //  - SEPARA EM UM ARRAY (EX: $ipSoma[0] = 192, $ipSoma[1] = 168, ETC)
             $ipSoma = explode('.',$ip);
             #var_dump($ipSoma);
             #exit();
@@ -72,7 +72,7 @@ class HomeController extends Controller
                         $ipSoma[2] = $ipSoma[2]+1;
                         $ipSoma[3] = 0;
                         $somas = $ipSoma[0].'.'.$ipSoma[1].'.'.$ipSoma[2].'.'.$ipSoma[3].'/'.$ipSoma[4];
-                        
+
                         $ipSoma[3] = $ipSoma[3]+1;
                         $route_mestre = $ipSoma[0].'.'.$ipSoma[1].'.'.$ipSoma[2].'.'.$ipSoma[3];
                         $ipSoma[3] = $ipSoma[3]+1;
@@ -102,10 +102,10 @@ class HomeController extends Controller
                         $route_mestre = $ipSoma[0].'.'.$ipSoma[1].'.'.$ipSoma[2].'.'.$ipSoma[3];
                         $ipSoma[3] = $ipSoma[3]+1;
                         $route_escravo = $ipSoma[0].'.'.$ipSoma[1].'.'.$ipSoma[2].'.'.$ipSoma[3];
-                        
+
                     }
                     else
-                    {                    
+                    {
                         $ipSoma[3] = $ipSoma[3]+8;
                         $somas = $ipSoma[0].'.'.$ipSoma[1].'.'.$ipSoma[2].'.'.$ipSoma[3].'/'.$ipSoma[4];
 
@@ -133,7 +133,7 @@ class HomeController extends Controller
                     {
                         $somas = 'ERROR';
                     }
-                } 
+                }
             }
             else
             {
@@ -176,12 +176,12 @@ class HomeController extends Controller
         $cidades    = DB::table('cidade')->count();
         $clientes   = DB::table('cliente')->count();
         $ultimas    = DB::table('ultima_milha')->count();
-        $ativos     = DB::table('ativo')->count(); 
-        $sites      = DB::table('site')->count(); 
-       
+        $ativos     = DB::table('ativo')->count();
+        $sites      = DB::table('site')->count();
+
 
         $all = array(
-            'cidades'   => $cidades, 
+            'cidades'   => $cidades,
             'clientes'  => $clientes,
             'ultimas'   => $ultimas,
             'ativos'    => $ativos,
@@ -196,7 +196,7 @@ class HomeController extends Controller
 
         return view('inicio/estatistica', array(
             'cidades'       => $cidades,
-            'cidadesPorce'  => $cidadesPorce, 
+            'cidadesPorce'  => $cidadesPorce,
             'clientes'      => $clientes,
             'clientesPorce' => $clientesPorce,
             'ultimas'       => $ultimas,
@@ -205,5 +205,5 @@ class HomeController extends Controller
             'sitesPorce'    => $sitesPorce
         ));
     }
-    
+
 }

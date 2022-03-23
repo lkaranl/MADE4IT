@@ -50,7 +50,7 @@ class UsersTableSeeder extends Seeder
           'email'     => 'karan@gmail.com',
           'email_verified_at'  => NULL,
           // 'password'      => '$2y$10$4SqGLDH1x4e.W9cXNiks.OxrRZBpS2Zv7oOOcdMYMZr8PhUwvtX.m',
-          'password' => Hash::make('Karan123'),
+          'password' => Hash::make('12345678'),
           'remember_token'     => NULL,
           'created_at'  => '2021-05-06 00:46:52',
           'is_admin' => 0,
