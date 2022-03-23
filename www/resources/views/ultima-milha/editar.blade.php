@@ -13,7 +13,7 @@ document.getElementById("menu-item-ultima-milha").className += " active";
         <p>Relatório de Erro:<br>
             <div class="alert alert-danger" style="width: fit-content;">
                 <?php
-                print_r(str_replace('"],"','"]<br>"',(str_replace(array('{','}'),'',$errors)))); 
+                print_r(str_replace('"],"','"]<br>"',(str_replace(array('{','}'),'',$errors))));
                 ?>
             </div>
         </p>
@@ -52,7 +52,7 @@ document.getElementById("menu-item-ultima-milha").className += " active";
             <input type="email" id="email" name="email" class="form-control" value="{{ $ultima->email }}"><br>
         </div>
         <div class="col-12">
-            <a href=""<?php echo WEB_ROOT."/ultima-milha";?>" class="btn btn-danger">Cancelar</a>
+            <a href="<?php echo WEB_ROOT."/ultima-milha";?>" class="btn btn-danger">Cancelar</a>
             <input type="submit" class="btn btn-primary" value="Salvar">
         </div>
     </div>
