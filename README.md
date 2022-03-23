@@ -26,7 +26,7 @@ Entre na pasta do projeto e execute o [script](https://github.com/lkaranl/MADE4I
 `$sudo ./subir.sh
 `
 
-Não tem muito segredo, o script faz todo o trabalho complicado de subir os container e subir as migrations do bando de dados.
+Não tem muito segredo, o script faz todo o trabalho complicado de subir os containers e subir as migrations do banco de dados.
 
 Quando rodar o projeto pela primiera vez não há a necessidade de realizar o backup, então responda apenas como "nao".
 
@@ -36,7 +36,8 @@ Se tudo der certo, você deverá ter um log mais ou menos como esse:
 ## Backup
 O backup pode ser realizado de duas formas, a primeira é com a utilização do próprio script de subir o projeto, onde ele irá perguntar se deseja fazer o backup e também se deseja realizar o restore.
 
-Uma observação importante é que se porventura desejar fazer o backup porém sem o restore, observe que a base de dados ficará vazia, isso irá quebrar o projeto pois não haverá tabela ao qual consultar, sendo necessário realizar o restore manualmente.
+Uma observação importante é que se porventura desejar fazer o backup, porém, sem o restore, observe que a base de dados ficará vazia, isso irá quebrar o projeto pois não haverá tabela ao qual consultar, sendo necessário realizar o restore manualmente. Estou trabalhando em uma solução para sanar esse problema.
+
 
 ![animacao](https://github.com/lkaranl/MADE4IT/raw/main/auxIMG/subirsembackup.png)
 
