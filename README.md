@@ -28,15 +28,19 @@ Não tem muito segredo, o script faz todo o trabalho complicado de subir os cont
 Quando rodar o projeto pela primiera vez não há a necessidade de realizar o backup, então responda apenas como "nao".
 
 Se tudo der certo, você deverá ter um log mais ou menos como esse:
-{tudoCerto}
+![animacao](https://github.com/lkaranl/MADE4IT/raw/main/auxIMG/tudoCerto.png)
+
 ## Backup
 O backup pode ser realizado de duas formas, a primeira é com a utilização do próprio script de subir o projeto, onde ele irá perguntar se deseja fazer o backup e também se deseja realizar o restore.
 
 Uma observação importante é que se porventura desejar fazer o backup porém sem o restore, observe que a base de dados ficará vazia, isso irá quebrar o projeto pois não haverá tabela ao qual consultar, sendo necessário realizar o restore manualmente.
-{subirsembackup}
+![animacao](https://github.com/lkaranl/MADE4IT/raw/main/auxIMG/subirsembackup.png)
+
 
 E também pode ser realizado de maneira manual, utilizando o script backup.sh.
-{backupManual}
+![animacao](https://github.com/lkaranl/MADE4IT/raw/main/auxIMG/backupManual.png)
+
+**IMPORTANTE: Os comando devem ser realizados com permissão de root**
 ## Portas
 - **nginx - Porta Principal do projeto** - `:8000`
 - **mysql** - `:9906`
